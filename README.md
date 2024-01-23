@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Bryce DeSantis
+I am a self taught Front End Developer from New York, pursuing the knowledge to become a Full Stack Developer.
+
+- 🌱 I have completed the front end portions of The Odin Project's JavaScript curriculum
+- 🔭 I am currently working on the backend curriculum of The Odin Project
+- 📫 Reach me at brycedesantis@hotmail.com
+- 👨‍💻 View my [portfolio](https://brycedesantis.netlify.app/) to see some of my projects 
 
 <!--
 **brycedesantis/brycedesantis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
